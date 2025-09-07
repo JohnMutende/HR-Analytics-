@@ -12,6 +12,10 @@ This project focuses on developing an interactive HR Analytics Dashboard to moni
 + **Compensation Analysis** Provide insights into total monthly income and total monthly rate by job roles, useful for payroll planning and role-based salary comparisons.
 
 + **Dynamic Filtering** Enable slicers by education field and department, allowing HR managers to drill down into specific segments of the workforce
+***
+
+**Data source**
+These data set was given to be used in the data analysist class for assignments and projects
 
 ***
 **Key Questions**

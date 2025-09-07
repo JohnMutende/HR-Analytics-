@@ -12,3 +12,17 @@ This project focuses on developing an interactive HR Analytics Dashboard to moni
 + **Compensation Analysis** Provide insights into total monthly income and total monthly rate by job roles, useful for payroll planning and role-based salary comparisons.
 
 + **Dynamic Filtering** Enable slicers by education field and department, allowing HR managers to drill down into specific segments of the workforce
+
+***
+**Key Questions**
+**KPI FOR HR ANALYTICS DASHBOARD**
++	GET TOTAL COUNT OF EMPLOYEE, ATTRITION, ACTIVE EMPLOYEES, ATTRITION RATE
++ TOTAL EMPLOYEES BY GENDER 
++ TOTAL DEPARTMENT 
++ GROUP CF AGE BAND
++	TOTAL MARITAL STATUS
++ TOTAL JOB ROLES
++ TOTAL EDUCATION WISE
++ GET TOTAL MONTHLY INCOME FOR JOB ROLES
++	GET TOTAL MONTHLY RATE FOR JOB ROLES 
++	USE SLICER FOR (EDUCATION FIELD AND DEPARTMENT) 

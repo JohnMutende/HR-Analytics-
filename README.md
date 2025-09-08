@@ -1,6 +1,6 @@
 # HR Analytics
 **Project Overview**
-This project focuses on developing an interactive HR Analytics Dashboard to monitor key workforce metrics and provide actionable insights for human resource decision-making. By leveraging tools such as Excel Pivot Tables, Power BI, or Tableau, the dashboard visualizes employee data across multiple dimensions, enabling HR teams to track performance, diversity, and workforce trends
+This project focuses on developing an interactive HR Analytics Dashboard to monitor key workforce metrics and provide actionable insights for human resource decision-making. By leveraging tools such as  Power BI the dashboard visualizes employee data across multiple dimensions, enabling HR teams to track performance, diversity, and workforce trends
 ***
 **Key objectives**
 + **Employee Overview Metrics** Display the total count of employees, attrition, active employees, and attrition rate to assess workforce size and stability.
